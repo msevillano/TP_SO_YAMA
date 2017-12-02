@@ -1,0 +1,247 @@
+[INFO] 16:12:54:891 DATANODE/(2875:2875): La cantidad de bloques es: 20
+[INFO] 16:16:36:511 DATANODE/(2885:2885): La cantidad de bloques es: 20
+[INFO] 16:16:56:824 DATANODE/(2888:2888): La cantidad de bloques es: 20
+[INFO] 16:18:27:375 DATANODE/(2897:2897): La cantidad de bloques es: 20
+[INFO] 16:34:06:885 DATANODE/(2506:2506): La cantidad de bloques es: 20
+[ERROR] 16:34:39:653 DATANODE/(2506:2507): No puedo recibir información, o el servidor colgó
+
+[INFO] 16:36:38:950 DATANODE/(2556:2556): La cantidad de bloques es: 20
+[ERROR] 16:36:41:260 DATANODE/(2556:2557): No puedo recibir información, o el servidor colgó
+
+[INFO] 16:38:12:622 DATANODE/(2624:2624): La cantidad de bloques es: 20
+[ERROR] 16:38:37:178 DATANODE/(2624:2625): No puedo recibir información, o el servidor colgó
+
+[INFO] 16:39:02:348 DATANODE/(2626:2626): La cantidad de bloques es: 20
+[ERROR] 16:39:03:185 DATANODE/(2626:2628): No puedo recibir información, o el servidor colgó
+
+[INFO] 16:39:06:432 DATANODE/(2629:2629): La cantidad de bloques es: 20
+[ERROR] 16:39:56:633 DATANODE/(2629:2630): No puedo recibir información, o el servidor colgó
+
+[INFO] 16:39:59:830 DATANODE/(2663:2663): La cantidad de bloques es: 20
+[ERROR] 16:40:13:12 DATANODE/(2663:2664): No puedo recibir información, o el servidor colgó
+
+[INFO] 16:42:05:934 DATANODE/(3037:3037): La cantidad de bloques es: 20
+[INFO] 16:42:52:44 DATANODE/(3041:3041): La cantidad de bloques es: 20
+[ERROR] 16:43:30:647 DATANODE/(3041:3042): No puedo recibir información, o el servidor colgó
+
+[INFO] 16:43:47:372 DATANODE/(3081:3081): La cantidad de bloques es: 20
+[INFO] 16:43:52:94 DATANODE/(3082:3082): La cantidad de bloques es: 20
+[INFO] 16:47:03:588 DATANODE/(3187:3187): La cantidad de bloques es: 20
+[INFO] 17:29:16:828 DATANODE/(13181:13181): La cantidad de bloques es: 20
+[ERROR] 17:32:24:512 DATANODE/(13181:13182): No puedo recibir información, o el servidor colgó
+
+[INFO] 17:32:33:384 DATANODE/(13257:13257): La cantidad de bloques es: 20
+[ERROR] 17:32:50:239 DATANODE/(13257:13258): No puedo recibir información, o el servidor colgó
+
+[INFO] 17:32:55:585 DATANODE/(13264:13264): La cantidad de bloques es: 20
+[INFO] 17:37:23:161 DATANODE/(13348:13348): La cantidad de bloques es: 20
+[ERROR] 17:37:40:1 DATANODE/(13348:13349): No puedo recibir información, o el servidor colgó
+
+[INFO] 17:37:57:462 DATANODE/(13361:13361): La cantidad de bloques es: 20
+[ERROR] 17:38:41:970 DATANODE/(13361:13362): No puedo recibir información, o el servidor colgó
+
+[INFO] 17:38:57:930 DATANODE/(13367:13367): La cantidad de bloques es: 20
+[ERROR] 17:39:24:375 DATANODE/(13367:13368): No puedo recibir información, o el servidor colgó
+
+[INFO] 17:40:12:234 DATANODE/(13374:13374): La cantidad de bloques es: 20
+[INFO] 17:42:31:883 DATANODE/(13384:13384): La cantidad de bloques es: 20
+[ERROR] 17:43:01:533 DATANODE/(13384:13385): No puedo recibir información, o el servidor colgó
+
+[INFO] 17:43:36:423 DATANODE/(13392:13392): La cantidad de bloques es: 20
+[INFO] 17:43:54:294 DATANODE/(13396:13396): La cantidad de bloques es: 20
+[ERROR] 17:48:52:653 DATANODE/(13396:13397): No puedo recibir información, o el servidor colgó
+
+[INFO] 17:50:04:277 DATANODE/(13410:13410): La cantidad de bloques es: 20
+[INFO] 17:52:35:639 DATANODE/(13419:13419): La cantidad de bloques es: 20
+[INFO] 17:52:41:826 DATANODE/(13423:13423): La cantidad de bloques es: 20
+[ERROR] 17:53:11:896 DATANODE/(13423:13424): No puedo recibir información, o el servidor colgó
+
+[INFO] 17:55:10:49 DATANODE/(13433:13433): La cantidad de bloques es: 20
+[ERROR] 17:55:21:188 DATANODE/(13433:13434): No puedo recibir información, o el servidor colgó
+
+[INFO] 17:55:27:253 DATANODE/(13439:13439): La cantidad de bloques es: 20
+[ERROR] 17:55:39:893 DATANODE/(13439:13440): No puedo recibir información, o el servidor colgó
+
+[ERROR] 17:55:39:893 DATANODE/(13439:13440): No puedo recibir información, o el servidor colgó
+
+[INFO] 17:56:02:423 DATANODE/(13447:13447): La cantidad de bloques es: 20
+[INFO] 17:56:12:686 DATANODE/(13449:13449): La cantidad de bloques es: 20
+[INFO] 17:56:37:325 DATANODE/(13535:13535): La cantidad de bloques es: 20
+[INFO] 17:57:07:807 DATANODE/(13639:13639): La cantidad de bloques es: 20
+[INFO] 17:57:41:546 DATANODE/(13641:13641): La cantidad de bloques es: 20
+[ERROR] 17:58:08:214 DATANODE/(13641:13642): No puedo recibir información, o el servidor colgó
+
+[INFO] 17:58:13:814 DATANODE/(13648:13648): La cantidad de bloques es: 20
+[ERROR] 17:58:25:320 DATANODE/(13648:13649): No puedo recibir información, o el servidor colgó
+
+[ERROR] 17:58:25:321 DATANODE/(13648:13649): No puedo recibir información, o el servidor colgó
+
+[INFO] 17:58:29:642 DATANODE/(13653:13653): La cantidad de bloques es: 20
+[ERROR] 17:58:48:58 DATANODE/(13653:13654): No puedo recibir información, o el servidor colgó
+
+[INFO] 17:58:59:647 DATANODE/(13661:13661): La cantidad de bloques es: 20
+[ERROR] 17:59:25:239 DATANODE/(13661:13662): No puedo recibir información, o el servidor colgó
+
+[INFO] 18:00:55:682 DATANODE/(13668:13668): La cantidad de bloques es: 20
+[ERROR] 18:01:33:590 DATANODE/(13668:13669): No puedo recibir información, o el servidor colgó
+
+[INFO] 18:02:08:182 DATANODE/(13677:13677): La cantidad de bloques es: 20
+[ERROR] 18:02:42:308 DATANODE/(13677:13678): No puedo recibir información, o el servidor colgó
+
+[INFO] 18:02:46:343 DATANODE/(13683:13683): La cantidad de bloques es: 20
+[ERROR] 18:02:55:9 DATANODE/(13683:13684): No puedo recibir información, o el servidor colgó
+
+[INFO] 18:03:34:60 DATANODE/(13688:13688): La cantidad de bloques es: 20
+[ERROR] 18:03:40:179 DATANODE/(13688:13689): No puedo recibir información, o el servidor colgó
+
+[INFO] 18:04:44:530 DATANODE/(13696:13696): La cantidad de bloques es: 20
+[ERROR] 18:06:12:589 DATANODE/(13696:13697): No puedo recibir información, o el servidor colgó
+
+[INFO] 18:06:19:403 DATANODE/(13703:13703): La cantidad de bloques es: 20
+[ERROR] 18:06:36:762 DATANODE/(13703:13705): No puedo recibir información, o el servidor colgó
+
+[INFO] 18:07:33:632 DATANODE/(13711:13711): La cantidad de bloques es: 20
+[ERROR] 18:08:12:637 DATANODE/(13711:13712): No puedo recibir información, o el servidor colgó
+
+[INFO] 18:08:20:826 DATANODE/(13724:13724): La cantidad de bloques es: 20
+[ERROR] 18:11:30:946 DATANODE/(13724:13725): No puedo recibir información, o el servidor colgó
+
+[INFO] 18:11:41:126 DATANODE/(13734:13734): La cantidad de bloques es: 20
+[ERROR] 18:12:03:92 DATANODE/(13734:13735): No puedo recibir información, o el servidor colgó
+
+[INFO] 18:12:47:522 DATANODE/(13741:13741): La cantidad de bloques es: 20
+[ERROR] 18:14:08:359 DATANODE/(13741:13742): No puedo recibir información, o el servidor colgó
+
+[INFO] 18:14:13:692 DATANODE/(13749:13749): La cantidad de bloques es: 20
+[INFO] 18:16:06:498 DATANODE/(13832:13832): La cantidad de bloques es: 20
+[INFO] 18:20:31:963 DATANODE/(14047:14047): La cantidad de bloques es: 20
+[INFO] 18:21:11:116 DATANODE/(14135:14135): La cantidad de bloques es: 20
+[INFO] 18:22:25:228 DATANODE/(14174:14174): La cantidad de bloques es: 20
+[INFO] 18:23:06:328 DATANODE/(14176:14176): La cantidad de bloques es: 20
+[INFO] 18:23:45:50 DATANODE/(14211:14211): La cantidad de bloques es: 20
+[INFO] 18:24:11:566 DATANODE/(14245:14245): La cantidad de bloques es: 20
+[INFO] 18:38:23:47 DATANODE/(14469:14469): La cantidad de bloques es: 20
+[INFO] 18:39:26:280 DATANODE/(14506:14506): La cantidad de bloques es: 20
+[INFO] 18:40:02:163 DATANODE/(14544:14544): La cantidad de bloques es: 20
+[INFO] 21:25:03:39 DATANODE/(3740:3740): La cantidad de bloques es: 50
+[INFO] 21:26:14:708 DATANODE/(3761:3761): La cantidad de bloques es: 50
+[INFO] 21:26:15:413 DATANODE/(3761:3762): Probando Conexion
+
+[INFO] 21:26:15:772 DATANODE/(3761:3762): Probando Conexion
+
+[INFO] 21:26:44:836 DATANODE/(3765:3765): La cantidad de bloques es: 50
+[ERROR] 21:26:58:738 DATANODE/(3765:3766): No puedo recibir información, o el servidor colgó
+
+[INFO] 21:27:06:302 DATANODE/(3767:3767): La cantidad de bloques es: 50
+[INFO] 21:27:13:875 DATANODE/(3767:3768): Probando Conexion
+
+[INFO] 21:27:16:238 DATANODE/(3767:3768): Probando Conexion
+
+[ERROR] 21:27:34:214 DATANODE/(3767:3768): No puedo recibir información, o el servidor colgó
+
+[INFO] 21:27:45:134 DATANODE/(3782:3782): La cantidad de bloques es: 50
+[INFO] 21:27:57:766 DATANODE/(3782:3783): Probando Conexion
+
+[INFO] 21:27:59:542 DATANODE/(3782:3783): Probando Conexion
+
+[ERROR] 21:28:22:223 DATANODE/(3782:3783): No puedo recibir información, o el servidor colgó
+
+[INFO] 21:28:41:208 DATANODE/(3785:3785): La cantidad de bloques es: 50
+[INFO] 21:28:44:89 DATANODE/(3785:3786): Probando Conexion
+
+[INFO] 21:28:44:520 DATANODE/(3785:3786): Probando Conexion
+
+[INFO] 21:52:31:904 DATANODE/(4065:4065): La cantidad de bloques es: 50
+[INFO] 21:52:33:695 DATANODE/(4065:4066): Probando Conexion
+
+[INFO] 21:52:35:141 DATANODE/(4065:4066): Probando Conexion
+
+[ERROR] 21:54:27:717 DATANODE/(4065:4066): No puedo recibir información, o el servidor colgó
+
+[INFO] 21:54:34:232 DATANODE/(4123:4123): La cantidad de bloques es: 50
+[INFO] 21:54:34:595 DATANODE/(4123:4124): Probando Conexion
+
+[INFO] 21:54:34:843 DATANODE/(4123:4124): Probando Conexion
+
+[ERROR] 21:54:54:235 DATANODE/(4123:4124): No puedo recibir información, o el servidor colgó
+
+[INFO] 21:56:52:943 DATANODE/(4129:4129): La cantidad de bloques es: 50
+[INFO] 21:56:55:63 DATANODE/(4129:4130): Probando Conexion
+
+[INFO] 21:56:55:917 DATANODE/(4129:4130): Probando Conexion
+
+[ERROR] 21:57:15:35 DATANODE/(4129:4130): No puedo recibir información, o el servidor colgó
+
+[INFO] 21:57:20:526 DATANODE/(4133:4133): La cantidad de bloques es: 50
+[INFO] 21:57:22:492 DATANODE/(4133:4134): Probando Conexion
+
+[INFO] 21:57:22:934 DATANODE/(4133:4134): Probando Conexion
+
+[ERROR] 22:02:16:27 DATANODE/(4133:4134): No puedo recibir información, o el servidor colgó
+
+[INFO] 22:02:41:332 DATANODE/(4228:4228): La cantidad de bloques es: 50
+[INFO] 22:02:43:635 DATANODE/(4228:4229): Probando Conexion
+
+[INFO] 22:02:43:995 DATANODE/(4228:4229): Probando Conexion
+
+[ERROR] 22:10:26:10 DATANODE/(4228:4229): No puedo recibir información, o el servidor colgó
+
+[INFO] 22:10:36:536 DATANODE/(4506:4506): La cantidad de bloques es: 50
+[INFO] 22:10:37:201 DATANODE/(4506:4507): Probando Conexion
+
+[INFO] 22:10:37:460 DATANODE/(4506:4507): Probando Conexion
+
+[INFO] 22:17:58:68 DATANODE/(4732:4732): La cantidad de bloques es: 50
+[INFO] 22:18:00:492 DATANODE/(4732:4733): Probando Conexion
+
+[INFO] 22:18:01:897 DATANODE/(4732:4733): Probando Conexion
+
+[ERROR] 22:21:19:901 DATANODE/(4732:4733): No puedo recibir información, o el servidor colgó
+
+[INFO] 22:22:21:998 DATANODE/(4883:4883): La cantidad de bloques es: 50
+[INFO] 22:22:23:35 DATANODE/(4883:4884): Probando Conexion
+
+[INFO] 22:22:23:265 DATANODE/(4883:4884): Probando Conexion
+
+[ERROR] 22:26:15:444 DATANODE/(4883:4884): No puedo recibir información, o el servidor colgó
+
+[INFO] 22:26:38:424 DATANODE/(5047:5047): La cantidad de bloques es: 50
+[INFO] 22:26:40:60 DATANODE/(5047:5048): Probando Conexion
+
+[INFO] 22:26:41:328 DATANODE/(5047:5048): Probando Conexion
+
+[ERROR] 22:29:40:435 DATANODE/(5047:5048): No puedo recibir información, o el servidor colgó
+
+[INFO] 22:31:18:123 DATANODE/(5209:5209): La cantidad de bloques es: 50
+[INFO] 22:31:19:830 DATANODE/(5209:5210): Probando Conexion
+
+[INFO] 22:31:20:400 DATANODE/(5209:5210): Probando Conexion
+
+[ERROR] 22:32:10:196 DATANODE/(5209:5210): No puedo recibir información, o el servidor colgó
+
+[INFO] 22:32:23:603 DATANODE/(5266:5266): La cantidad de bloques es: 50
+[INFO] 22:32:25:202 DATANODE/(5266:5267): Probando Conexion
+
+[INFO] 22:32:25:568 DATANODE/(5266:5267): Probando Conexion
+
+[ERROR] 22:36:18:785 DATANODE/(5266:5267): No puedo recibir información, o el servidor colgó
+
+[INFO] 22:36:58:640 DATANODE/(5572:5572): La cantidad de bloques es: 50
+[INFO] 22:36:59:71 DATANODE/(5572:5573): Probando Conexion
+
+[INFO] 22:36:59:451 DATANODE/(5572:5573): Probando Conexion
+
+[ERROR] 22:40:27:820 DATANODE/(5572:5573): No puedo recibir información, o el servidor colgó
+
+[INFO] 22:40:54:265 DATANODE/(5683:5683): La cantidad de bloques es: 50
+[INFO] 22:40:55:892 DATANODE/(5683:5684): Probando Conexion
+
+[INFO] 22:40:56:699 DATANODE/(5683:5684): Probando Conexion
+
+[ERROR] 22:43:06:783 DATANODE/(5683:5684): No puedo recibir información, o el servidor colgó
+
+[INFO] 22:43:52:58 DATANODE/(5703:5703): La cantidad de bloques es: 50
+[INFO] 22:43:56:755 DATANODE/(5703:5704): Probando Conexion
+
+[INFO] 22:44:00:29 DATANODE/(5703:5704): Probando Conexion
+

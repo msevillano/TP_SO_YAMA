@@ -1,0 +1,16 @@
+/*
+ * conexionesWorker.h
+ *
+ *  Created on: 12/9/2017
+ *      Author: utnso
+ */
+
+#ifndef CONEXIONESWORKER_H_
+#define CONEXIONESWORKER_H_
+
+enum tipoMensaje {REDUCCIONGLOBAL=3, ALMACENAMIENTO,
+				  SOLICITUDARCHIVOWORKER, RECEPCIONARCHIVOWORKER, FILESYSTEMOK, FILESYSTEMERROR,
+				  HANDSHAKE};
+
+
+#endif /* CONEXIONESWORKER_H_ */

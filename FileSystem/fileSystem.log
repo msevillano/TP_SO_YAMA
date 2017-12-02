@@ -1,0 +1,292 @@
+[INFO] 16:48:58:784 FILESYSTEM/(3235:3235): No hay directorios registrados
+
+[INFO] 16:54:19:693 FILESYSTEM/(2439:2439): No hay directorios registrados
+
+[INFO] 16:54:25:244 FILESYSTEM/(2439:2440): New conection from 192.168.43.176 on socket 5
+
+[INFO] 16:54:25:245 FILESYSTEM/(2439:2440): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 16:54:58:197 FILESYSTEM/(2439:2440): Se desconectó el nodo: NODO1
+
+[ERROR] 16:54:58:197 FILESYSTEM/(2439:2441): Error guardando los bloques en los datanode
+
+[INFO] 16:55:14:707 FILESYSTEM/(2442:2442): No hay directorios registrados
+
+[INFO] 16:56:45:495 FILESYSTEM/(2442:2443): New conection from 192.168.43.176 on socket 5
+
+[INFO] 16:56:45:496 FILESYSTEM/(2442:2443): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 17:02:01:562 FILESYSTEM/(2609:2609): No hay directorios registrados
+
+[INFO] 17:03:06:777 FILESYSTEM/(2609:2614): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:03:06:777 FILESYSTEM/(2609:2614): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 17:04:16:898 FILESYSTEM/(2650:2650): No hay directorios registrados
+
+[INFO] 17:04:22:554 FILESYSTEM/(2650:2658): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:04:22:554 FILESYSTEM/(2650:2658): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 17:05:32:999 FILESYSTEM/(2650:2658): Se desconectó el nodo: NODO1
+
+[INFO] 17:07:21:758 FILESYSTEM/(2727:2727): No hay directorios registrados
+
+[INFO] 17:07:24:417 FILESYSTEM/(2727:2728): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:07:24:418 FILESYSTEM/(2727:2728): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[ERROR] 17:07:36:981 FILESYSTEM/(2727:2729): El archivo archivo.txt/ no existe
+
+[INFO] 17:08:21:342 FILESYSTEM/(2734:2734): No hay directorios registrados
+
+[INFO] 17:08:24:225 FILESYSTEM/(2734:2735): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:08:24:225 FILESYSTEM/(2734:2735): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 17:11:20:103 FILESYSTEM/(2811:2811): No hay directorios registrados
+
+[INFO] 17:11:23:608 FILESYSTEM/(2811:2812): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:11:23:609 FILESYSTEM/(2811:2812): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 17:12:20:145 FILESYSTEM/(2816:2816): No hay directorios registrados
+
+[INFO] 17:12:22:583 FILESYSTEM/(2816:2817): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:12:22:584 FILESYSTEM/(2816:2817): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 17:13:05:875 FILESYSTEM/(2845:2845): No hay directorios registrados
+
+[INFO] 17:13:11:804 FILESYSTEM/(2845:2846): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:13:11:805 FILESYSTEM/(2845:2846): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 17:14:51:271 FILESYSTEM/(2845:2846): Se desconectó el nodo: NODO1
+
+[ERROR] 17:14:51:271 FILESYSTEM/(2845:2847): Error guardando los bloques en los datanode
+
+[INFO] 17:14:56:413 FILESYSTEM/(2891:2891): No hay directorios registrados
+
+[INFO] 17:14:59:674 FILESYSTEM/(2891:2892): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:14:59:675 FILESYSTEM/(2891:2892): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 17:16:08:42 FILESYSTEM/(2929:2929): No hay directorios registrados
+
+[INFO] 17:16:11:150 FILESYSTEM/(2929:2930): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:16:11:151 FILESYSTEM/(2929:2930): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 17:17:38:57 FILESYSTEM/(2937:2937): No hay directorios registrados
+
+[INFO] 17:18:05:664 FILESYSTEM/(2965:2965): No hay directorios registrados
+
+[INFO] 17:18:08:925 FILESYSTEM/(2965:2971): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:18:08:927 FILESYSTEM/(2965:2971): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 17:19:16:82 FILESYSTEM/(2965:2971): Se desconectó el nodo: NODO1
+
+[INFO] 17:19:34:286 FILESYSTEM/(2987:2987): No hay directorios registrados
+
+[INFO] 17:19:44:770 FILESYSTEM/(2987:2988): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:19:44:770 FILESYSTEM/(2987:2988): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 17:20:27:571 FILESYSTEM/(2987:2988): Se desconectó el nodo: NODO1
+
+[ERROR] 17:20:27:571 FILESYSTEM/(2987:2989): Error guardando los bloques en los datanode
+
+[INFO] 17:20:30:215 FILESYSTEM/(2987:2988): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:20:30:216 FILESYSTEM/(2987:2988): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 48
+
+[INFO] 17:20:39:430 FILESYSTEM/(2987:2988): Se desconectó el nodo: NODO1
+
+[INFO] 17:20:43:839 FILESYSTEM/(2993:2993): No hay directorios registrados
+
+[INFO] 17:20:46:109 FILESYSTEM/(2993:2994): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:20:46:111 FILESYSTEM/(2993:2994): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 17:22:09:558 FILESYSTEM/(3070:3070): No hay directorios registrados
+
+[INFO] 17:22:13:218 FILESYSTEM/(3070:3071): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:22:13:218 FILESYSTEM/(3070:3071): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 17:23:20:590 FILESYSTEM/(3070:3071): Se desconectó el nodo: NODO1
+
+[ERROR] 17:23:20:591 FILESYSTEM/(3070:3072): Error guardando los bloques en los datanode
+
+[INFO] 17:24:26:491 FILESYSTEM/(3145:3145): No hay directorios registrados
+
+[INFO] 17:24:29:189 FILESYSTEM/(3145:3146): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:24:29:189 FILESYSTEM/(3145:3146): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 17:24:41:678 FILESYSTEM/(3145:3146): Se desconectó el nodo: NODO1
+
+[ERROR] 17:24:41:678 FILESYSTEM/(3145:3147): Error guardando los bloques en los datanode
+
+[INFO] 17:25:38:219 FILESYSTEM/(3181:3181): No hay directorios registrados
+
+[INFO] 17:25:40:659 FILESYSTEM/(3181:3182): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:25:40:659 FILESYSTEM/(3181:3182): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 17:29:14:247 FILESYSTEM/(3181:3182): Se desconectó el nodo: NODO1
+
+[ERROR] 17:29:14:247 FILESYSTEM/(3181:3183): Error guardando los bloques en los datanode
+
+[INFO] 17:29:15:275 FILESYSTEM/(3181:3182): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:29:15:278 FILESYSTEM/(3181:3182): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 48
+
+[INFO] 17:29:15:886 FILESYSTEM/(3181:3182): Se desconectó el nodo: NODO1
+
+[INFO] 17:31:58:19 FILESYSTEM/(3249:3249): No hay directorios registrados
+
+[INFO] 17:32:00:814 FILESYSTEM/(3249:3250): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:32:00:814 FILESYSTEM/(3249:3250): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 1048576
+Cantidad de bloques libres: 1048576
+
+[INFO] 17:34:49:474 FILESYSTEM/(3249:3250): Se desconectó el nodo: NODO1
+
+[INFO] 17:34:50:298 FILESYSTEM/(3249:3250): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:34:50:298 FILESYSTEM/(3249:3250): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 1048576
+Cantidad de bloques libres: 1048570
+
+[INFO] 17:34:53:758 FILESYSTEM/(3249:3250): Se desconectó el nodo: NODO1
+
+[INFO] 17:34:59:256 FILESYSTEM/(3298:3298): No hay directorios registrados
+
+[INFO] 17:35:03:200 FILESYSTEM/(3298:3299): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:35:03:200 FILESYSTEM/(3298:3299): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 17:37:44:126 FILESYSTEM/(3340:3340): No hay directorios registrados
+
+[INFO] 17:37:48:657 FILESYSTEM/(3340:3341): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:37:48:657 FILESYSTEM/(3340:3341): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 17:59:10:226 FILESYSTEM/(4792:4792): No hay directorios registrados
+
+[INFO] 17:59:31:985 FILESYSTEM/(4792:4793): New conection from 192.168.43.176 on socket 5
+
+[INFO] 17:59:31:987 FILESYSTEM/(4792:4793): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 18:00:01:859 FILESYSTEM/(4796:4796): No hay directorios registrados
+
+[INFO] 18:00:27:244 FILESYSTEM/(4796:4797): New conection from 192.168.43.176 on socket 5
+
+[INFO] 18:00:27:245 FILESYSTEM/(4796:4797): Nodo Conectado en socket: 5
+Nombre: NODO1
+Direccion Worker: 192.168.43.53:47635
+Cantidad de bloques: 50
+Cantidad de bloques libres: 50
+
+[INFO] 11:32:09:560 FILESYSTEM/(3006:3006): No hay directorios registrados
+
+[INFO] 11:33:01:259 FILESYSTEM/(3013:3013): No hay directorios registrados
+
+[INFO] 11:33:21:540 FILESYSTEM/(3016:3016): No hay nodos registrados
+

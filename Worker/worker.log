@@ -1,0 +1,114 @@
+[INFO] 21:36:57:810 WORKER/(3836:3954): nombre del archivo apareado: -4
+
+[INFO] 21:53:01:422 WORKER/(4067:4112): nombre del archivo apareado: temp/NODO2-1511398381.346665-4
+
+[INFO] 21:53:03:828 WORKER/(4067:4116): Archivo de reduccion global temp/NODO2-1511398383.809975
+[INFO] 21:53:03:857 WORKER/(4067:4116): nombre del archivo apareado global: temp/NODO2-1511398383.809975-0
+
+[INFO] 21:58:59:274 WORKER/(4135:4181): nombre del archivo apareado: temp/NODO2-1511398739.205031-4
+
+[INFO] 21:59:02:65 WORKER/(4135:4185): Archivo de reduccion global temp/NODO2-1511398742.044664
+[INFO] 21:59:02:106 WORKER/(4135:4185): nombre del archivo apareado global: temp/NODO2-1511398742.044664-0
+
+[INFO] 22:04:28:475 WORKER/(4230:4277): nombre del archivo apareado: temp/NODO2-1511399068.398772-4
+
+[INFO] 22:04:31:338 WORKER/(4230:4281): Archivo de reduccion global temp/NODO2-1511399071.319004
+[INFO] 22:04:31:384 WORKER/(4230:4281): nombre del archivo apareado global: temp/NODO2-1511399071.319004-0
+
+[INFO] 22:05:06:292 WORKER/(4230:4328): nombre del archivo apareado: temp/NODO2-1511399106.214269-4
+
+[INFO] 22:05:09:8 WORKER/(4230:4332): Archivo de reduccion global temp/NODO2-1511399108.989849
+[INFO] 22:05:09:41 WORKER/(4230:4332): nombre del archivo apareado global: temp/NODO2-1511399108.989849-0
+
+[INFO] 22:05:28:34 WORKER/(4230:4381): nombre del archivo apareado: temp/NODO2-1511399127.957456-4
+
+[INFO] 22:05:31:222 WORKER/(4230:4385): Archivo de reduccion global temp/NODO2-1511399131.199330
+[INFO] 22:05:31:248 WORKER/(4230:4385): nombre del archivo apareado global: temp/NODO2-1511399131.199330-0
+
+[INFO] 22:07:42:63 WORKER/(4433:4442): nombre del archivo apareado: 
+
+[INFO] 22:07:44:384 WORKER/(4433:4488): nombre del archivo apareado: temp/NODO2-1511399264.288937-4
+
+[INFO] 22:07:46:929 WORKER/(4433:4492): Archivo de reduccion global temp/NODO2-1511399266.915959
+[INFO] 22:07:46:984 WORKER/(4433:4492): nombre del archivo apareado global: temp/NODO2-1511399266.915959-0
+
+[INFO] 22:12:52:752 WORKER/(4508:4639): nombre del archivo apareado: temp/NODO2-1511399572.417202-4
+
+[INFO] 22:12:53:247 WORKER/(4508:4640): nombre del archivo apareado: temp/NODO2-1511399572.884202-4
+
+[INFO] 22:12:53:711 WORKER/(4508:4647): nombre del archivo apareado: temp/NODO2-1511399573.553622-4
+
+[INFO] 22:13:02:195 WORKER/(4508:4652): Archivo de reduccion global temp/NODO2-1511399581.819461
+[INFO] 22:13:02:195 WORKER/(4508:4651): Archivo de reduccion global temp/NODO2-1511399581.817779
+[INFO] 22:13:02:231 WORKER/(4508:4653): Archivo de reduccion global temp/NODO2-1511399581.956826
+[INFO] 22:13:02:263 WORKER/(4508:4652): nombre del archivo apareado global: temp/NODO2-1511399581.819461-0
+
+[INFO] 22:13:02:263 WORKER/(4508:4651): nombre del archivo apareado global: temp/NODO2-1511399581.817779-0
+
+[INFO] 22:13:02:306 WORKER/(4508:4653): nombre del archivo apareado global: temp/NODO2-1511399581.956826-0
+
+[INFO] 22:20:22:227 WORKER/(4734:4823): nombre del archivo apareado: temp/NODO2-1511400021.769991-4
+
+[INFO] 22:20:23:225 WORKER/(4734:4837): nombre del archivo apareado: temp/NODO2-1511400022.717569-4
+
+[INFO] 22:20:24:149 WORKER/(4734:4873): nombre del archivo apareado: temp/NODO2-1511400024.046976-4
+
+[INFO] 22:24:58:943 WORKER/(4885:4947): nombre del archivo apareado: temp/NODO2-1511400298.660963-4
+
+[INFO] 22:25:00:76 WORKER/(4885:4991): nombre del archivo apareado: temp/NODO2-1511400299.979072-4
+
+[INFO] 22:25:01:488 WORKER/(4885:5037): nombre del archivo apareado: temp/NODO2-1511400301.373110-4
+
+[INFO] 22:27:47:354 WORKER/(5049:5095): nombre del archivo apareado: temp/NODO2-1511400467.289724-4
+
+[INFO] 22:27:50:99 WORKER/(5049:5099): Archivo de reduccion global temp/NODO2-1511400470.086557
+[INFO] 22:27:50:122 WORKER/(5049:5099): nombre del archivo apareado global: temp/NODO2-1511400470.086557-0
+
+[INFO] 22:27:55:994 WORKER/(5049:5146): nombre del archivo apareado: temp/NODO2-1511400475.925196-4
+
+[INFO] 22:27:58:700 WORKER/(5049:5150): Archivo de reduccion global temp/NODO2-1511400478.690090
+[INFO] 22:27:58:723 WORKER/(5049:5150): nombre del archivo apareado global: temp/NODO2-1511400478.690090-0
+
+[INFO] 22:28:30:848 WORKER/(5049:5197): nombre del archivo apareado: temp/NODO2-1511400510.778003-4
+
+[INFO] 22:28:33:509 WORKER/(5049:5202): Archivo de reduccion global temp/NODO2-1511400513.495129
+[INFO] 22:28:33:540 WORKER/(5049:5202): nombre del archivo apareado global: temp/NODO2-1511400513.495129-0
+
+[INFO] 22:31:52:945 WORKER/(5211:5257): nombre del archivo apareado: temp/NODO2-1511400712.842872-4
+
+[INFO] 22:31:56:676 WORKER/(5211:5261): Archivo de reduccion global temp/NODO2-1511400716.267045
+[INFO] 22:31:57:341 WORKER/(5211:5261): nombre del archivo apareado global: temp/NODO2-1511400716.267045-0
+
+[INFO] 22:33:46:723 WORKER/(5268:5357): nombre del archivo apareado: temp/NODO2-1511400826.530854-4
+
+[INFO] 22:33:46:855 WORKER/(5268:5361): nombre del archivo apareado: temp/NODO2-1511400826.738547-4
+
+[INFO] 22:33:49:938 WORKER/(5268:5407): nombre del archivo apareado: temp/NODO2-1511400829.869392-4
+
+[INFO] 22:35:18:755 WORKER/(5268:5457): nombre del archivo apareado: temp/NODO2-1511400918.680246-4
+
+[INFO] 22:35:21:316 WORKER/(5268:5461): Archivo de reduccion global temp/NODO2-1511400921.299958
+[INFO] 22:35:21:355 WORKER/(5268:5461): nombre del archivo apareado global: temp/NODO2-1511400921.299958-0
+
+[INFO] 22:35:44:300 WORKER/(5268:5510): nombre del archivo apareado: temp/NODO2-1511400944.226170-4
+
+[INFO] 22:35:47:64 WORKER/(5268:5514): Archivo de reduccion global temp/NODO2-1511400947.051168
+[INFO] 22:35:47:88 WORKER/(5268:5514): nombre del archivo apareado global: temp/NODO2-1511400947.051168-0
+
+[INFO] 22:36:06:372 WORKER/(5268:5562): nombre del archivo apareado: temp/NODO2-1511400966.310710-4
+
+[INFO] 22:36:09:19 WORKER/(5268:5566): Archivo de reduccion global temp/NODO2-1511400969.004626
+[INFO] 22:36:09:51 WORKER/(5268:5566): nombre del archivo apareado global: temp/NODO2-1511400969.004626-0
+
+[INFO] 22:37:49:988 WORKER/(5574:5620): nombre del archivo apareado: temp/NODO2-1511401069.911475-4
+
+[INFO] 22:37:53:648 WORKER/(5574:5624): Archivo de reduccion global temp/NODO2-1511401073.631340
+[INFO] 22:37:53:680 WORKER/(5574:5624): nombre del archivo apareado global: temp/NODO2-1511401073.631340-0
+
+[INFO] 22:38:08:378 WORKER/(5574:5671): nombre del archivo apareado: temp/NODO2-1511401088.311819-4
+
+[INFO] 22:38:11:655 WORKER/(5574:5675): Archivo de reduccion global temp/NODO2-1511401091.608614
+[INFO] 22:38:11:724 WORKER/(5574:5675): nombre del archivo apareado global: temp/NODO2-1511401091.608614-0
+
+[INFO] 22:45:21:118 WORKER/(5705:5737): nombre del archivo apareado: temp/NODO2-1511401521.027110-2
+

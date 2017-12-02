@@ -1,0 +1,73 @@
+[INFO] 21:34:12:429 YAMA/(3891:3891): Para recargar la configuracion utilice el comando kill -USR1 3891
+[ERROR] 21:34:51:364 YAMA/(3891:3892): No se puede replanificar la transformacion
+
+[ERROR] 21:34:51:364 YAMA/(3891:3892): No se puede replanificar la transformacion
+
+[ERROR] 21:34:51:364 YAMA/(3891:3892): No se puede replanificar la transformacion
+
+[ERROR] 21:34:51:364 YAMA/(3891:3892): No se puede replanificar la transformacion
+
+[ERROR] 21:34:51:364 YAMA/(3891:3892): No se puede replanificar la transformacion
+
+[ERROR] 21:34:51:364 YAMA/(3891:3892): No se puede replanificar la transformacion
+
+[ERROR] 21:34:51:364 YAMA/(3891:3892): No se puede replanificar la transformacion
+
+[ERROR] 21:34:51:365 YAMA/(3891:3892): No se puede replanificar la transformacion
+
+[ERROR] 21:36:21:183 YAMA/(3891:3892): El archivo /p no pudo no se encuentra disponible
+[ERROR] 21:36:44:369 YAMA/(3891:3892): El archivo /p no pudo no se encuentra disponible
+[INFO] 21:36:52:842 YAMA/(3910:3910): Para recargar la configuracion utilice el comando kill -USR1 3910
+[ERROR] 21:36:57:825 YAMA/(3910:3911): El archivo  no pudo no se encuentra disponible
+[INFO] 21:52:57:400 YAMA/(4068:4068): Para recargar la configuracion utilice el comando kill -USR1 4068
+[INFO] 21:53:06:459 YAMA/(4068:4069): El job 1 ha sido finalizado
+[INFO] 21:57:56:847 YAMA/(4136:4136): Para recargar la configuracion utilice el comando kill -USR1 4136
+[INFO] 21:59:03:624 YAMA/(4136:4137): El job 1 ha sido finalizado
+[INFO] 22:03:14:475 YAMA/(4231:4231): Para recargar la configuracion utilice el comando kill -USR1 4231
+[INFO] 22:04:34:35 YAMA/(4231:4232): El job 1 ha sido finalizado
+[ERROR] 22:05:09:263 YAMA/(4231:4232): Error al almacenar el archivo en Job 2
+[INFO] 22:05:32:85 YAMA/(4231:4232): El job 3 ha sido finalizado
+[INFO] 22:05:58:890 YAMA/(4231:4232): 	Replanificando...
+[INFO] 22:05:58:899 YAMA/(4231:4232): 	Replanificando...
+[INFO] 22:05:58:941 YAMA/(4231:4232): 	Replanificando...
+[INFO] 22:05:58:945 YAMA/(4231:4232): 	Replanificando...
+[INFO] 22:05:58:955 YAMA/(4231:4232): 	Replanificando...
+[INFO] 22:05:58:955 YAMA/(4231:4232): 	Replanificando...
+[INFO] 22:06:08:16 YAMA/(4231:4232): El job 4 ha sido finalizado
+[INFO] 22:07:52:803 YAMA/(4231:4232): El job 7 ha sido finalizado
+[INFO] 22:09:31:899 YAMA/(4499:4499): Para recargar la configuracion utilice el comando kill -USR1 4499
+[INFO] 22:09:59:163 YAMA/(4501:4501): Para recargar la configuracion utilice el comando kill -USR1 4501
+[INFO] 22:11:37:572 YAMA/(4510:4510): Para recargar la configuracion utilice el comando kill -USR1 4510
+[ERROR] 22:11:55:513 YAMA/(4510:4511): El archivo /a no pudo no se encuentra disponible
+[ERROR] 22:11:56:671 YAMA/(4510:4511): El archivo /a no pudo no se encuentra disponible
+[INFO] 22:13:15:554 YAMA/(4510:4511): El job 4 ha sido finalizado
+[INFO] 22:13:16:983 YAMA/(4510:4511): El job 3 ha sido finalizado
+[INFO] 22:13:18:210 YAMA/(4510:4511): El job 5 ha sido finalizado
+[INFO] 22:18:11:780 YAMA/(4735:4735): Para recargar la configuracion utilice el comando kill -USR1 4735
+[INFO] 22:20:34:851 YAMA/(4735:4736): El job 1 ha sido finalizado
+[INFO] 22:20:37:291 YAMA/(4735:4736): El job 3 ha sido finalizado
+[INFO] 22:22:27:458 YAMA/(4886:4886): Para recargar la configuracion utilice el comando kill -USR1 4886
+[INFO] 22:25:09:818 YAMA/(4886:4887): El job 1 ha sido finalizado
+[INFO] 22:25:10:739 YAMA/(4886:4887): El job 2 ha sido finalizado
+[INFO] 22:25:11:583 YAMA/(4886:4887): El job 3 ha sido finalizado
+[ERROR] 22:27:20:457 YAMA/(4886:4887): El archivo /p no pudo no se encuentra disponible
+[INFO] 22:27:43:186 YAMA/(5051:5051): Para recargar la configuracion utilice el comando kill -USR1 5051
+[INFO] 22:27:51:10 YAMA/(5051:5052): El job 1 ha sido finalizado
+[ERROR] 22:27:58:889 YAMA/(5051:5052): Error al almacenar el archivo en Job 2
+[INFO] 22:28:35:69 YAMA/(5051:5052): El job 3 ha sido finalizado
+[INFO] 22:31:41:173 YAMA/(5213:5213): Para recargar la configuracion utilice el comando kill -USR1 5213
+[INFO] 22:31:59:497 YAMA/(5213:5214): El job 1 ha sido finalizado
+[INFO] 22:33:36:47 YAMA/(5271:5271): Para recargar la configuracion utilice el comando kill -USR1 5271
+[INFO] 22:33:58:525 YAMA/(5271:5272): El job 1 ha sido finalizado
+[INFO] 22:33:59:546 YAMA/(5271:5272): El job 2 ha sido finalizado
+[INFO] 22:34:00:569 YAMA/(5271:5272): El job 3 ha sido finalizado
+[INFO] 22:35:22:277 YAMA/(5271:5272): El job 4 ha sido finalizado
+[ERROR] 22:35:47:668 YAMA/(5271:5272): Error al almacenar el archivo en Job 5
+[INFO] 22:36:10:191 YAMA/(5271:5272): El job 6 ha sido finalizado
+[INFO] 22:37:46:338 YAMA/(5576:5576): Para recargar la configuracion utilice el comando kill -USR1 5576
+[ERROR] 22:37:53:814 YAMA/(5576:5577): Error al almacenar el archivo en Job 1
+[INFO] 22:38:17:486 YAMA/(5576:5577): El job 2 ha sido finalizado
+[INFO] 22:40:58:389 YAMA/(5686:5686): Para recargar la configuracion utilice el comando kill -USR1 5686
+[ERROR] 22:42:30:334 YAMA/(5686:5687): El archivo /p no pudo no se encuentra disponible
+[INFO] 22:44:00:40 YAMA/(5706:5706): Para recargar la configuracion utilice el comando kill -USR1 5706
+[INFO] 22:45:24:914 YAMA/(5706:5707): El job 1 ha sido finalizado
